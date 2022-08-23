@@ -1,0 +1,8 @@
+# Syllabus {.unnumbered}
+
+```{r, child = 'syllabus/syllabus.qmd'}
+```
+
+\clearpage
+\vspace*{1in}
+\clearpage

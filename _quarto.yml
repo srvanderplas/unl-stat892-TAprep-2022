@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "Stat 892: Writing and TA Prep"
+  date: "2022"
+  toc: false
+  number-depth: 1
+  chapters:
+    - index.qmd
+    - 2022/Week1.qmd
+    - 2022/Week2.qmd
+    - 2022/Week3.qmd
+    - 2022/Week4.qmd
+    - 2022/Week5.qmd
+    - 2022/Week6.qmd
+
+
+format:
+  pdf:
+    documentclass: scrreport
+    toc: false
+  html:
+    theme: cosmo
+
+
+
+

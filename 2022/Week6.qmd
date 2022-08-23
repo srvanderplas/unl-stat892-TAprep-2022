@@ -1,0 +1,37 @@
+# Week 6: September 30, 2022
+
+
+## Writing
+- Discuss differences/similarities between 
+    - parent distribution
+    - sampling distribution
+    - data distribution
+- Where does 'probability distribution' fit in?
+
+## Simulation
+- Explore distribution of min, max, median, range
+- 3 distributions - unimodal, skewed, crazy
+- plotted on board
+- which are parent, sampling, and data distributions?
+- which are approximate? theoretical?
+
+- What would have to be modified to explore sample size?
+
+## Next week?
+
+- Write definition you'd give your students of sampling distribution
+
+- As a class: come up with 1 definition of sampling distribution based on the individual ones
+
+Based on that definition,
+
+- identify benchmarks for student understanding
+
+    - key parts
+    - what students really need to understand to fully comprehend definition
+    - what kind of questions would you ask them to see if they've achieved those benchmarks
+
+- writing activity to explore sampling distribution and which benchmarks it reinforces
+
+- Talk to mentor - 3 dates for potential teaching in October (ideally before fall break)
+
