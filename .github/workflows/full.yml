@@ -23,7 +23,7 @@ jobs:
       if: runner.os == 'Linux'
       shell: Rscript {0}
       run: |
-        pkgs <- c("rmarkdown", "jsonlite","fontawesome", "downlit", "xml2")
+        pkgs <- c("renv", "rmarkdown", "jsonlite","fontawesome", "downlit", "xml2")
         pkgs <- setdiff(pkgs, installed.packages())
         if (length(pkgs) > 0) install.packages(pkgs)
         options(renv.download.override = utils::download.file)
