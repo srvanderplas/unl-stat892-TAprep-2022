@@ -60,6 +60,7 @@ library(dplyr)
 library(tibble)
 library(ggplot2)
 library(lubridate)
+library(forcats)
 
 # Create a calendar for your syllabus ----
 # Source: http://svmiller.com/blog/2020/08/a-ggplot-calendar-for-your-semester/
@@ -317,5 +318,5 @@ Students are expected to adhere to guidelines concerning academic dishonesty out
 
 ## Required University Information{.unnumbered}
 
-See \url{https://executivevc.unl.edu/academic-excellence/teaching-resources/course-policies}.
+See https://executivevc.unl.edu/academic-excellence/teaching-resources/course-policies
 
