@@ -5,22 +5,26 @@ format: html
 
 # Interval Estimation
 
-- Think/pair/share:
-    - What is the fundamental difference between hypothesis testing and estimation?
+## Think/pair/share:
+- What is the fundamental difference between hypothesis testing and estimation?
 
-    - What is the logic behind constructing a confidence interval?
+- What is the logic behind constructing a confidence interval?
 
 
-- Discussion: What are the essential things students need to understand about confidence intervals?
+## Discussion
+What are the essential things students need to understand about confidence intervals?
 
-- Assignment: Write an open-ended free response question that asks students about confidence intervals and construct a rubric for your question. 
+## Assignment
+
+Write an open-ended free response question that asks students about confidence intervals and construct a rubric for your question. 
     - Construct the question in such a way that they need to address the essentials of confidence intervals
     - make sure your rubric assigns points to those key concepts
 Post the question and rubric to the Canvas discussion board.
 
 
 
-- For next week: Read the following two articles
+# Preparation
+For next week: Read the following two articles
 
     - https://doi.org/10.3389/fpsyg.2015.00223
     

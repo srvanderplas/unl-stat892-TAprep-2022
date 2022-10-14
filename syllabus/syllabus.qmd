@@ -170,11 +170,11 @@ class_days <- filter(Cal, category == "Class Day") %>%
     "Sampling Distributions",
     "Interval Estimation",
     "Hypothesis Testing",
-    "Two sample interval estimation",
-    "Two-sample hypothesis testing",
+    "Classroom Observations",
+    "Project-based Learning",
     "The Big Picture",
     "Thanksgiving",
-    "Final Exams/Grading",
+    "Scholarship of Teaching and Learning",
     "Wrap-up"),
     technique = c("Assignment construction, peer review, rubrics",
                   "Low-stakes writing, reflection",
@@ -183,8 +183,14 @@ class_days <- filter(Cal, category == "Class Day") %>%
                   "Writing to engage students",
                   "Benchmarks for sampling distributions", 
                   "Journals as low-stakes writing activities", 
-                  "Writing exercises to gauge understanding",
-                  "TBD", "TBD", "TBD", "TBD", " ", "TBD", "TBD")) %>%
+                  "Reflection",
+                  "Historical Context", 
+                  "Discussion", 
+                  "Interviews", 
+                  "Long-term Benchmarks", 
+                  " ", 
+                  "Article Discussion", 
+                  "TBD")) %>%
   # bind_rows(project_days) %>%
   arrange(sem_week) %>%
   select(Date, Topic = topic, "Through the use of..." = technique)
@@ -192,7 +198,7 @@ class_days <- filter(Cal, category == "Class Day") %>%
 ```
 
 ## Course Goals{.unnumbered}
-Your goal, as an instructor or assistant for Stat 218/Stat 380 (or any other course), is to help your students learn statistical concepts. Our primary goal in this course is to help you develop strategies to most effectively teach those statistical concepts to your students. One way to both teach statistical concepts and to gauge your students' understanding is through the use of writing. The ability to translate "stat speak" into clear non-technical language is one of the best indications that technical concepts in statistics are genuinely understood. Learning how to do this is an effective way to learn - and teach - technical concepts in statistics. We call this process "writing for learning." We will tak about this concept, and practice "writing to learn" activities throughout the course.
+Your goal, as an instructor or assistant for Stat 218/Stat 380 (or any other course), is to help your students learn statistical concepts. Our primary goal in this course is to help you develop strategies to most effectively teach those statistical concepts to your students. One way to both teach statistical concepts and to gauge your students' understanding is through the use of writing. The ability to translate "stat speak" into clear non-technical language is one of the best indications that technical concepts in statistics are genuinely understood. Learning how to do this is an effective way to learn - and teach - technical concepts in statistics. We call this process "writing for learning." We will talk about this concept, and practice "writing to learn" activities throughout the course.
 
 As a second goal of the course, we will also develop writing/critical thinking skills you will need as a teacher. This includes writing clear assignments and exam questions and developing grading rubrics. We'll spend class time analyzing examples of "good" and "bad" assignments and exam questions, and gain practice writing effective rubrics.
 
