@@ -18,6 +18,12 @@ book:
     - 2022/Week6.qmd
     - 2022/Week7.qmd
     - 2022/Week8.qmd
+    - 2022/Week9.qmd
+    - 2022/Week10.qmd
+    - 2022/Week11.qmd
+    - 2022/Week12.qmd
+    - 2022/Week13.qmd
+    - 2022/Week14.qmd
 
   site-url: https://srvanderplas.github.io/unl-stat892-TAprep/
   repo-url: https://github.com/srvanderplas/unl-stat892-TAprep/
@@ -26,7 +32,7 @@ book:
   sharing: [twitter, facebook, linkedin]
   page-navigation: true
   page-footer:
-    left: "Copyright 2022, Susan Vanderplas"
+    left: "Prepared for 2022, Susan Vanderplas"
     right:
       - icon: github
         href: https://github.com/srvanderplas

@@ -1,5 +1,5 @@
 ---
-title: "October 14, 2022"
+title: "Week 8: October 14, 2022"
 format: html
 ---
 
@@ -17,3 +17,13 @@ format: html
     - Construct the question in such a way that they need to address the essentials of confidence intervals
     - make sure your rubric assigns points to those key concepts
 Post the question and rubric to the Canvas discussion board.
+
+
+
+- For next week: Read the following two articles
+
+    - https://doi.org/10.3389/fpsyg.2015.00223
+    
+    - https://doi.org/10.2307/2291263
+
+And come prepared to discuss them during class

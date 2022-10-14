@@ -1,0 +1,27 @@
+---
+title: "Week 12: November 11, 2022"
+format: html
+---
+
+# Prepare before class
+
+- Two questions:
+    - What is the variability of the sampling distribution of a statistic measuring?
+    - How does variability of sampling distribution connect to tests and CIs?
+- Post on discussion board
+
+
+# Discussion - The Big Picture
+- What are the benchmarks for student learning about Hypothesis Tests and CIs?
+    - at the end of the semester?
+    - 1 year later?
+
+# Coming up
+
+- Portfolios due Dec 9
+
+- For next week, 
+    - ~~find an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method~~ 
+    - write a brief (1-2 paragraph) summary to post on the discussion board
+    
+    - Come prepared to discuss your activities and ask questions about your classmates' activities
