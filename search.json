@@ -109,62 +109,160 @@
     "href": "2022/Week6.html",
     "title": "6  Week 6: September 30, 2022",
     "section": "",
-    "text": "8 Simulation\n\nExplore distribution of min, max, median, range\n3 distributions - unimodal, skewed, crazy\nplotted on board\nwhich are parent, sampling, and data distributions?\nwhich are approximate? theoretical?\nWhat would have to be modified to explore sample size?\n\n\n\n9 Next week?\n\nWrite definition you’d give your students of sampling distribution\nAs a class: come up with 1 definition of sampling distribution based on the individual ones\n\nBased on that definition - identify benchmarks for student understanding - key parts - what students really need to understand to fully comprehend definition - what kind of questions would you ask them to see if they’ve achieved those benchmarks\n\nwriting activity to explore sampling distribution and which benchmarks it reinforces\nTalk to mentor - 3 dates for potential teaching in October (ideally before fall break)"
+    "text": "Discuss differences/similarities between\n\nparent distribution\nsampling distribution\ndata distribution\n\nWhere does ‘probability distribution’ fit in?"
+  },
+  {
+    "objectID": "2022/Week6.html#simulation",
+    "href": "2022/Week6.html#simulation",
+    "title": "6  Week 6: September 30, 2022",
+    "section": "6.2 Simulation",
+    "text": "6.2 Simulation\n\nExplore distribution of min, max, median, range\n3 distributions - unimodal, skewed, crazy\nplotted on board\nwhich are parent, sampling, and data distributions?\nwhich are approximate? theoretical?\nWhat would have to be modified to explore sample size?"
+  },
+  {
+    "objectID": "2022/Week6.html#next-week",
+    "href": "2022/Week6.html#next-week",
+    "title": "6  Week 6: September 30, 2022",
+    "section": "6.3 Next week?",
+    "text": "6.3 Next week?\n\nWrite definition you’d give your students of sampling distribution\nAs a class: come up with 1 definition of sampling distribution based on the individual ones\n\nBased on that definition - identify benchmarks for student understanding - key parts - what students really need to understand to fully comprehend definition - what kind of questions would you ask them to see if they’ve achieved those benchmarks\n\nwriting activity to explore sampling distribution and which benchmarks it reinforces\nTalk to mentor - 3 dates for potential teaching in October (ideally before fall break)"
   },
   {
     "objectID": "2022/Week7.html",
     "href": "2022/Week7.html",
     "title": "7  Week 7: October 7, 2022",
     "section": "",
-    "text": "9 Activity\n\nWrite definition you’d give your students of sampling distribution\nAs a class: come up with 1 definition of sampling distribution based on the individual ones\n\nBased on that definition - identify benchmarks for student understanding - key parts - what students really need to understand to fully comprehend definition - what kind of questions would you ask them to see if they’ve achieved those benchmarks\n\n\n10 Journaling\n\nwriting activity to explore sampling distribution and which benchmarks it reinforces"
+    "text": "Watch the following videos and after each video, reflect (in writing) on the strengths and weaknesses of each video in explaining the concept of sampling distributions. What did each video explain well? Poorly?\n\nhttps://www.youtube.com/watch?v=z0Ry_3_qhDw\nhttps://www.youtube.com/watch?v=7S7j75d3GM4"
+  },
+  {
+    "objectID": "2022/Week7.html#activity",
+    "href": "2022/Week7.html#activity",
+    "title": "7  Week 7: October 7, 2022",
+    "section": "7.2 Activity",
+    "text": "7.2 Activity\n\nWrite definition you’d give your students of sampling distribution\nAs a class: come up with 1 definition of sampling distribution based on the individual ones\n\nBased on that definition - identify benchmarks for student understanding - key parts - what students really need to understand to fully comprehend definition - what kind of questions would you ask them to see if they’ve achieved those benchmarks"
+  },
+  {
+    "objectID": "2022/Week7.html#journaling",
+    "href": "2022/Week7.html#journaling",
+    "title": "7  Week 7: October 7, 2022",
+    "section": "7.3 Journaling",
+    "text": "7.3 Journaling\n\nwriting activity to explore sampling distribution and which benchmarks it reinforces"
   },
   {
     "objectID": "2022/Week8.html",
     "href": "2022/Week8.html",
     "title": "8  Week 8: October 14, 2022",
     "section": "",
-    "text": "10 Preparation\nFor next week: Read the following two articles\n- https://doi.org/10.3389/fpsyg.2015.00223\n\n- https://doi.org/10.2307/2291263\nAnd come prepared to discuss them during class"
+    "text": "What is the fundamental difference between hypothesis testing and estimation?\nWhat is the logic behind constructing a confidence interval?\n\n\n\n\nWhat are the essential things students need to understand about confidence intervals?"
+  },
+  {
+    "objectID": "2022/Week8.html#assignment",
+    "href": "2022/Week8.html#assignment",
+    "title": "8  Week 8: October 14, 2022",
+    "section": "8.2 Assignment",
+    "text": "8.2 Assignment\nWrite an open-ended free response question that asks students about confidence intervals and construct a rubric for your question. - Construct the question in such a way that they need to address the essentials of confidence intervals - make sure your rubric assigns points to those key concepts Post the question and rubric to the Canvas discussion board."
+  },
+  {
+    "objectID": "2022/Week8.html#preparation",
+    "href": "2022/Week8.html#preparation",
+    "title": "8  Week 8: October 14, 2022",
+    "section": "8.3 Preparation",
+    "text": "8.3 Preparation\nFor next week: Read the following two articles\n- https://doi.org/10.3389/fpsyg.2015.00223\n\n- https://doi.org/10.2307/2291263\nAnd come prepared to discuss them during class"
   },
   {
     "objectID": "2022/Week9.html",
     "href": "2022/Week9.html",
     "title": "9  Week 9: October 21, 2022",
     "section": "",
-    "text": "11 For Nov 4th\n\nFind a 218 instructor that has used a project in their class and interview them to learn about the project.\n\nWhat did they learn?\nWhat did the students learn?\nWhat they would incorporate into future classes?\nWhat would they change and why?"
+    "text": "https://doi.org/10.3389/fpsyg.2015.00223\nhttps://doi.org/10.2307/2291263\nAnd come prepared to discuss them during class\n\n\n\n\nWhat did you learn from reading these two articles?\nWhat do you think about hypothesis testing given these articles?\nHow did Fisher’s hypothesis test differ from Neyman-Pearson’s hypothesis test?\nHow does null significance hypothesis testing originate from the two different concepts?\nWhat do your students need to understand about NSHT?\n\nIs historical context necessary for them?\nIs historical context helpful for you?"
+  },
+  {
+    "objectID": "2022/Week9.html#for-nov-4th",
+    "href": "2022/Week9.html#for-nov-4th",
+    "title": "9  Week 9: October 21, 2022",
+    "section": "9.2 For Nov 4th",
+    "text": "9.2 For Nov 4th\n\nFind a 218 instructor that has used a project in their class and interview them to learn about the project.\n\nWhat did they learn?\nWhat did the students learn?\nWhat they would incorporate into future classes?\nWhat would they change and why?"
   },
   {
     "objectID": "2022/Week10.html",
     "href": "2022/Week10.html",
     "title": "10  Week 10: October 28, 2022",
     "section": "",
-    "text": "12 Classroom observations\n\nWhat is something your mentor does that might be helpful to other instructors?\n\n\n\n13 Next week\n\nDiscuss project interviews"
+    "text": "You don’t have to do everything your mentor does\nWhat are the important components of a portfolio?\nWhat were the difficult parts of assembling a portfolio?"
+  },
+  {
+    "objectID": "2022/Week10.html#classroom-observations",
+    "href": "2022/Week10.html#classroom-observations",
+    "title": "10  Week 10: October 28, 2022",
+    "section": "10.2 Classroom observations",
+    "text": "10.2 Classroom observations\n\nWhat is something your mentor does that might be helpful to other instructors?"
+  },
+  {
+    "objectID": "2022/Week10.html#next-week",
+    "href": "2022/Week10.html#next-week",
+    "title": "10  Week 10: October 28, 2022",
+    "section": "10.3 Next week",
+    "text": "10.3 Next week\n\nDiscuss project interviews"
   },
   {
     "objectID": "2022/Week11.html",
     "href": "2022/Week11.html",
     "title": "11  Week 11: November 4, 2022",
     "section": "",
-    "text": "13 For Next Week\n\nTwo questions:\n\nWhat is the variability of the sampling distribution of a statistic measuring?\nHow does variability of sampling distribution connect to tests and CIs?\n\nPost on discussion board\nFind an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method. Claim it on the discussion board (no repeats)."
+    "text": "What type of project?\nWhat did they learn?\nWhat did the students learn?\nWhat they would incorporate into future classes?\nWhat would they change and why?"
+  },
+  {
+    "objectID": "2022/Week11.html#for-next-week",
+    "href": "2022/Week11.html#for-next-week",
+    "title": "11  Week 11: November 4, 2022",
+    "section": "11.2 For Next Week",
+    "text": "11.2 For Next Week\n\nTwo questions:\n\nWhat is the variability of the sampling distribution of a statistic measuring?\nHow does variability of sampling distribution connect to tests and CIs?\n\nPost on discussion board\nFind an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method. Claim it on the discussion board (no repeats)."
   },
   {
     "objectID": "2022/Week12.html",
     "href": "2022/Week12.html",
     "title": "12  Week 12: November 11, 2022",
     "section": "",
-    "text": "14 Discussion - The Big Picture\n\nWhat are the benchmarks for student learning about Hypothesis Tests and CIs?\n\nat the end of the semester?\n1 year later?\n\n\n\n\n15 Coming up\n\nPortfolios due Dec 9\nFor next week,\n\nfind an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method\nwrite a brief (1-2 paragraph) summary to post on the discussion board\nCome prepared to discuss your activities and ask questions about your classmates’ activities"
+    "text": "Two questions:\n\nWhat is the variability of the sampling distribution of a statistic measuring?\nHow does variability of sampling distribution connect to tests and CIs?\n\nPost on discussion board\n\n\n\n\n\nWhat are the benchmarks for student learning about Hypothesis Tests and CIs?\n\nat the end of the semester?\n1 year later?"
+  },
+  {
+    "objectID": "2022/Week12.html#coming-up",
+    "href": "2022/Week12.html#coming-up",
+    "title": "12  Week 12: November 11, 2022",
+    "section": "12.2 Coming up",
+    "text": "12.2 Coming up\n\nPortfolios due Dec 9\nFor next week,\n\nfind an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method\nwrite a brief (1-2 paragraph) summary to post on the discussion board\nCome prepared to discuss your activities and ask questions about your classmates’ activities"
   },
   {
     "objectID": "2022/Week13.html",
     "href": "2022/Week13.html",
     "title": "13  Week 13: November 18, 2022",
     "section": "",
-    "text": "15 Discussion - Activities and Assessments\n\nWhat did you learn?\nWhat of these activities might you incorporate in your classes?\n\n\n\n16 Coming up\n\nPortfolios due Dec 9"
+    "text": "find an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method\nwrite a brief (1-2 paragraph) summary to post on the discussion board\nCome prepared to discuss your activities and ask questions about your classmates’ activities"
+  },
+  {
+    "objectID": "2022/Week13.html#discussion---activities-and-assessments",
+    "href": "2022/Week13.html#discussion---activities-and-assessments",
+    "title": "13  Week 13: November 18, 2022",
+    "section": "13.2 Discussion - Activities and Assessments",
+    "text": "13.2 Discussion - Activities and Assessments\n\nWhat did you learn?\nWhat of these activities might you incorporate in your classes?"
+  },
+  {
+    "objectID": "2022/Week13.html#coming-up",
+    "href": "2022/Week13.html#coming-up",
+    "title": "13  Week 13: November 18, 2022",
+    "section": "13.3 Coming up",
+    "text": "13.3 Coming up\n\nPortfolios due Dec 9"
   },
   {
     "objectID": "2022/Week14.html",
     "href": "2022/Week14.html",
     "title": "14  Week 14: December 2, 2022",
     "section": "",
-    "text": "16 Coming up\n\nPortfolios due Dec 9"
+    "text": "What challenges are you having preparing your portfolios?\nWhat are you looking forward to doing when you teach 218 next semester?\nWhat are you still concerned about when teaching next semester on your own?"
+  },
+  {
+    "objectID": "2022/Week14.html#coming-up",
+    "href": "2022/Week14.html#coming-up",
+    "title": "14  Week 14: December 2, 2022",
+    "section": "14.2 Coming up",
+    "text": "14.2 Coming up\n\nPortfolios due Dec 9"
   }
 ]
