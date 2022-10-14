@@ -3,7 +3,8 @@ title: "Week 12: November 11, 2022"
 format: html
 ---
 
-# Prepare before class
+## The Big Picture
+### Prepare before class
 
 - Two questions:
     - What is the variability of the sampling distribution of a statistic measuring?
@@ -11,12 +12,12 @@ format: html
 - Post on discussion board
 
 
-# Discussion - The Big Picture
+### Discussion 
 - What are the benchmarks for student learning about Hypothesis Tests and CIs?
     - at the end of the semester?
     - 1 year later?
 
-# Coming up
+## Coming up
 
 - Portfolios due Dec 9
 

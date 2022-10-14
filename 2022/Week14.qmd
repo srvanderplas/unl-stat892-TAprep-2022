@@ -3,7 +3,7 @@ title: "Week 14: December 2, 2022"
 format: html
 ---
 
-# Discussion
+## Wrapping up - Discussion
 
 - What challenges are you having preparing your portfolios?
 
@@ -12,6 +12,6 @@ format: html
 - What are you still concerned about when teaching next semester on your own?
 
 
-# Coming up
+## Coming up
 
 - Portfolios due Dec 9

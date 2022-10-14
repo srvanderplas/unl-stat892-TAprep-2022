@@ -3,7 +3,7 @@ title: "Week 7: October 7, 2022"
 format: html
 ---
 
-# Before Class
+## Before Class
 
 Watch the following videos and after each video, reflect (in writing) on the strengths and weaknesses of each video in explaining the concept of sampling distributions. What did each video explain well? Poorly?
 
@@ -12,7 +12,7 @@ Watch the following videos and after each video, reflect (in writing) on the str
 - https://www.youtube.com/watch?v=7S7j75d3GM4
 
 
-# Activity
+## Activity
 
 - Write definition you'd give your students of sampling distribution
 
@@ -25,6 +25,6 @@ Based on that definition
     - what kind of questions would you ask them to see if they've achieved those benchmarks
 
 
-# Journaling
+## Journaling
 
 - writing activity to explore sampling distribution and which benchmarks it reinforces

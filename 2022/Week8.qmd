@@ -3,15 +3,15 @@ title: "Week 8: October 14, 2022"
 format: html
 ---
 
-# Interval Estimation
+## Interval Estimation
 
-## Think/pair/share:
+### Think/pair/share:
 - What is the fundamental difference between hypothesis testing and estimation?
 
 - What is the logic behind constructing a confidence interval?
 
 
-## Discussion
+### Discussion
 What are the essential things students need to understand about confidence intervals?
 
 ## Assignment
@@ -23,7 +23,7 @@ Post the question and rubric to the Canvas discussion board.
 
 
 
-# Preparation
+## Preparation
 For next week: Read the following two articles
 
     - https://doi.org/10.3389/fpsyg.2015.00223

@@ -3,9 +3,9 @@ title: "Week 9: October 21, 2022"
 format: html
 ---
 
-# Hypothesis Testing
+## Hypothesis Testing
 
-## Preparation: Read the following two articles
+### Preparation: Read the following two articles
 
 https://doi.org/10.3389/fpsyg.2015.00223
 
@@ -14,7 +14,7 @@ https://doi.org/10.2307/2291263
 And come prepared to discuss them during class
 
 
-## Discussion questions:
+### Discussion questions:
 
 - What did you learn from reading these two articles?
 
@@ -31,7 +31,7 @@ And come prepared to discuss them during class
 
 
 
-# For Nov 4th
+## For Nov 4th
 
 - Find a 218 instructor that has used a project in their class and interview them to learn about the project. 
     - What did they learn?

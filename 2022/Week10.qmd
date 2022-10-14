@@ -3,7 +3,7 @@ title: "Week 10: October 28, 2022"
 format: html
 ---
 
-# Portfolio Summaries
+## Portfolio Summaries
 
 - You don't have to do everything your mentor does
 
@@ -12,10 +12,10 @@ format: html
 - What were the difficult parts of assembling a portfolio?
 
 
-# Classroom observations
+## Classroom observations
 
 - What is something your mentor does that might be helpful to other instructors?
 
-# Next week
+## Next week
 
 - Discuss project interviews
