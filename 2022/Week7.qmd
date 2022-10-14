@@ -1,7 +1,4 @@
----
-title: "Week 7: October 7, 2022"
-format: html
----
+# Week 7: October 7, 2022
 
 ## Before Class
 
@@ -28,3 +25,7 @@ Based on that definition
 ## Journaling
 
 - writing activity to explore sampling distribution and which benchmarks it reinforces
+
+\clearpage
+\vspace*{1in}
+\clearpage

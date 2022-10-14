@@ -1,7 +1,4 @@
----
-title: "Week 14: December 2, 2022"
-format: html
----
+# Week 14: December 2, 2022
 
 ## Wrapping up - Discussion
 
@@ -15,3 +12,8 @@ format: html
 ## Coming up
 
 - Portfolios due Dec 9
+
+
+\clearpage
+\vspace*{1in}
+\clearpage

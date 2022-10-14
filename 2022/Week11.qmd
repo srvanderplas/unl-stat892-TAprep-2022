@@ -1,7 +1,4 @@
----
-title: "Week 11: November 4, 2022"
-format: html
----
+# Week 11: November 4, 2022
 
 ## Discussion - use of projects in Stat 218 
 
@@ -21,3 +18,8 @@ format: html
 
 
 - Find an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method. Claim it on the discussion board (no repeats).  
+
+
+\clearpage
+\vspace*{1in}
+\clearpage

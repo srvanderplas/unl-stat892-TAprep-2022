@@ -1,7 +1,5 @@
----
-title: "Week 12: November 11, 2022"
-format: html
----
+# Week 12: November 11, 2022
+
 
 ## The Big Picture
 ### Prepare before class
@@ -26,3 +24,8 @@ format: html
     - write a brief (1-2 paragraph) summary to post on the discussion board
     
     - Come prepared to discuss your activities and ask questions about your classmates' activities
+
+
+\clearpage
+\vspace*{1in}
+\clearpage

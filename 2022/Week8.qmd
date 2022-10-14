@@ -1,7 +1,4 @@
----
-title: "Week 8: October 14, 2022"
-format: html
----
+# Week 8: October 14, 2022
 
 ## Interval Estimation
 
@@ -31,3 +28,7 @@ For next week: Read the following two articles
     - https://doi.org/10.2307/2291263
 
 And come prepared to discuss them during class
+
+\clearpage
+\vspace*{1in}
+\clearpage

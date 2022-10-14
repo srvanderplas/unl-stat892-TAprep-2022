@@ -1,7 +1,4 @@
----
-title: "Week 13: November 18, 2022"
-format: html
----
+# Week 13: November 18, 2022
 
 ## Prepare before class
 - find an article in the Journal of Statistics and Data Science Education about an introductory statistics activity or assessment method
@@ -21,3 +18,8 @@ format: html
 ## Coming up
 
 - Portfolios due Dec 9
+
+
+\clearpage
+\vspace*{1in}
+\clearpage

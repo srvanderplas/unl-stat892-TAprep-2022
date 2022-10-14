@@ -1,7 +1,4 @@
----
-title: "Week 10: October 28, 2022"
-format: html
----
+# Week 10: October 28, 2022
 
 ## Portfolio Summaries
 
@@ -19,3 +16,7 @@ format: html
 ## Next week
 
 - Discuss project interviews
+
+\clearpage
+\vspace*{1in}
+\clearpage
