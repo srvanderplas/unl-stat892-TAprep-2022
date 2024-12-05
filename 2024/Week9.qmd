@@ -1,0 +1,42 @@
+# Week 9: October 21, 2022
+
+## Hypothesis Testing
+
+### Preparation: Read the following two articles
+
+https://doi.org/10.3389/fpsyg.2015.00223
+
+https://doi.org/10.2307/2291263
+
+And come prepared to discuss them during class
+
+
+### Discussion questions:
+
+- What did you learn from reading these two articles?
+
+- What do you think about hypothesis testing given these articles?
+
+- How did Fisher's hypothesis test differ from Neyman-Pearson's hypothesis test?
+
+- How does null significance hypothesis testing originate from the two different concepts?
+
+- What do your students need to understand about NSHT?
+    - Is historical context necessary for them?
+    - Is historical context helpful for you?
+
+
+
+
+## For Nov 4th
+
+- Find a 218 instructor that has used a project in their class and interview them to learn about the project. 
+    - What did they learn?
+    - What did the students learn?
+    - What they would incorporate into future classes?
+    - What would they change and why?
+
+
+\clearpage
+\vspace*{1in}
+\clearpage

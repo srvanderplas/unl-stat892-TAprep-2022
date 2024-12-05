@@ -6,8 +6,8 @@ book:
   title: "Stat 892: Writing and TA Prep"
   author: "Susan Vanderplas"
   date: "2024"
-  toc: false
-  number-depth: 1
+  # toc: false
+  # number-depth: 1
   chapters:
     - index.qmd
     - 2024/Week1.qmd
